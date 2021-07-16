@@ -2666,4 +2666,36 @@ label {
   }
 }
 
+.banner-boton{
+  color:white;
+ 
+  display: flex;
+  padding: 4rem 0;
+  align-items: center;
+  justify-content: center;
+
+max-width: 600px;
+padding: 1rem;
+box-sizing: border-box;
+
+
+}
+
+.banner-boton .container{
+  padding: 4rem 0;
+  background-color: #0070cd;
+  border-radius: 16px;
+  text-align: center;
+}
+.banner-boton a{
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.titulo{
+  color:white;
+  line-height: 1.2;
+  font-size:1.8rem !important;
+  margin-bottom: 2rem;
+}
 /*# sourceMappingURL=style.css.map */
